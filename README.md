@@ -1,26 +1,17 @@
-Dotfiles
-====
+# Dotfiles
 
 ## Overview
-
 dotfiles置き場．
 
-
 ## Description
-
 以下のdotfilesがあります．
 - .vimrc
 
-
 ## Requirement
-
 準備中．
-
 
 ## Usage
-
 準備中．
-
 
 ## Install
 
@@ -32,10 +23,7 @@ $ sh dotfiles/dotfilesLink.sh
 
 
 ## Licence
-
 準備中．
 
-
 ## Author
-
 [haru90](https://github.com/haru90)
