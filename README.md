@@ -22,7 +22,7 @@ $ sh dotfiles/dotfilesLink.sh
 ```
 
 
-## Licence
+## License
 準備中．
 
 ## Author
